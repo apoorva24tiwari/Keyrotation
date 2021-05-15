@@ -1,12 +1,13 @@
 Automate Access Key Rotation in IAM AWS using CloudWatch Events and Lambda Fucntion:
 
 The components used to incorporate automatic IAM access key rotation into  IAM operations workflow:
-1.** Lambda **:  generates API calls to IAM services to rotate and update keys.
+
+1. **** Lambda **:  generates API calls to IAM services to rotate and update keys.
 2. **CloudWatch **: initiates events on a scheduled basis to rotate keys.
 3. **IAM **: provides user access and secret keys for accessing AWS resources and services from non-AWS systems.
 4. **SNS **: sends notifications whenever keys are changed.
 5. **Service Account to be created for connection to your aws account**
-
+**
 
 ![image](https://user-images.githubusercontent.com/84247031/118375297-90b3c600-b5de-11eb-99ed-378d062930df.png)
 
