@@ -35,7 +35,7 @@ def send_email(email):
     <p> Secret Access Keys is attached in attachment .<br>
     Please find the attachment  .</p>
     <p> Please update this key as previous key will be disabled soon. <br>
-        Notify RSA DevOps( <u>sender@domain.com</u> ) in case of any issue.<br>
+        Notify DevOps( <u>sender@domain.com</u> ) in case of any issue.<br>
         Thank You </p>
         <p> Regards, <br>
             Sender.
