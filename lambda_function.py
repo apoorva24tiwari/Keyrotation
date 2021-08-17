@@ -121,9 +121,9 @@ def lambda_handler(event, context):
                
         
      
-#     status = deactive_key("apoorva.tiwari@uk.rsagroup.com")
+#     status = deactive_key("apoorva.tiwari@***.com")
 #     print (status)
-# #    status = create_key("apoorva.tiwari@uk.rsagroup.com",0)
+# #    status = create_key("apoorva.tiwari@***.com",0)
 #    print (status)
 
 
